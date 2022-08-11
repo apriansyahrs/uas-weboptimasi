@@ -1,0 +1,40 @@
+#navbarSupportedContent {
+    background-color: #A45D41 !important;
+}
+
+.icon-card {
+    font-size: 30px;
+    padding-left: 8px;
+}
+
+.form-label {
+    font-weight: 600;
+}
+
+.invalid-feedback {
+    display: block;
+    margin-top: 0;
+    margin-bottom: 5px;
+    font-size: 12px !important;
+    font-weight: 600;
+}
+
+textarea {
+    resize: none;
+}
+
+input[type="date"].date, input[type="text"].pencarian {
+    border: 1px solid #8898AA;
+}
+
+input[type="text"].pencarian {
+    width: 200px;
+}
+
+.btn-back {
+    background-color: #000 !important;
+}
+
+.btn-back:hover {
+    background-color: rgb(44, 41, 41) !important;
+}
